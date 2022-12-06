@@ -1,2 +1,3 @@
-# ayushgr.github.io
-Personal Website v1
+# Ayush GR
+
+## [Resume](./assets/Ganesan%20Ramkumar%20Ayush%20Resume.pdf)
